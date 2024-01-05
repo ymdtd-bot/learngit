@@ -4,4 +4,8 @@ line threee
 Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes!!!
-merge without fast forwardmmmmmmmmmmmmmmmmmmmmm
+<<<<<<< HEAD
+merge without fast forwardwwwwwwwwwwwww
+=======
+merge without fast forwardwwwwwwwwwwwww
+>>>>>>> 1fa34f8d3f37c45c0fb046f467fa7acdc3d0410a
